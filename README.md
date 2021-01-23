@@ -13,7 +13,7 @@ You'll need to go create an account to get an API key ([https://www.themoviedb.o
 
 # Dependencies
 
- - MovieAPI library created in the Part 1 - Hands-on)
+ - MovieAPI library (created in the Part 1 - Hands-on)
  
 ``` 
 <dependency>
