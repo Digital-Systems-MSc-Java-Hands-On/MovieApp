@@ -3,6 +3,8 @@ Hands-on demo (Part 2) project to showcase:
 How to install a library into the local maven repository
 How to use a java library from the local .m2 maven repository
 
+THIS IS A DEMO
+
 
 # API
 [TMDB API](https://developers.themoviedb.org/3/getting-started/introduction)
